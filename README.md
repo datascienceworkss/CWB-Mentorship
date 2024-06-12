@@ -9,6 +9,16 @@ For every module, you can expect:
 These materials are designed to work together to provide a comprehensive and engaging educational experience. Feel free to utilise these slides and notebooks for your learnings. 
 
 ### Resources
-
-Module-1
-- Basics of GenAI
+##### Module-
+- Introduction to GenAI Basics and Retrieval-Augmented Generation (RAG).
+##### **Slide Deck**:
+##### Overview of RAG:
+- Introduction to GenAI
+- What are Large Language Models LLMs
+- Introduction to RAG
+- Detailed RAG process
+- Practical Applications of RAG
+##### Key Concepts:
+- Retrieval Mechanism
+- Generation Mechanism
+- Combining Retrieval and Generation
