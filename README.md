@@ -9,7 +9,7 @@ For every module, you can expect:
 These materials are designed to work together to provide a comprehensive and engaging educational experience. Feel free to utilise these slides and notebooks for your learnings. 
 
 ### Resources
-##### Module-
+##### Module-1
 - Introduction to GenAI Basics and Retrieval-Augmented Generation (RAG).
 ##### **Slide Deck**:
 ##### Overview of RAG:
