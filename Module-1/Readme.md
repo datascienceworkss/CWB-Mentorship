@@ -1,5 +1,5 @@
 ## Resources
-- [Slides](CWB-Module1.pdf)
+- [Slides](CWB-Module1-Slides.pdf)
 - [Notebook](CWB_Module1.ipynb)
 ## Module-1 
 - Langchain
